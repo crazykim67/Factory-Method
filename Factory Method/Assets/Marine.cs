@@ -6,6 +6,6 @@ public class Marine : Unit
 {
     public override void Prodction()
     {
-        Debug.Log("¸¶¸° ÈÆ·Ã");
+        Debug.Log("¸¶¸° ÈÆ·Ã¿Ï·á");
     }
 }
